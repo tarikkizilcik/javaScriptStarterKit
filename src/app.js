@@ -7,3 +7,5 @@ konutKredileri.forEach(element => {
 for(let i = 0; i < konutKredileri.length; i++) {
     console.log(konutKredileri[i])
 }
+
+console.log("Its for the test commit.")
